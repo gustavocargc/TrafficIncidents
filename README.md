@@ -30,9 +30,9 @@ Open a Pull Request for us to review your contributions.
 Your participation is greatly appreciated!
 
 ## References
-Pandas Documentation
+[Pandas Documentation](https://pandas.pydata.org/docs/)
 
-Seaborn Documentation
+[Seaborn Documentation](https://seaborn.pydata.org/)
 
 Matplotlib Documentation
 
