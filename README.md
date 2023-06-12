@@ -31,8 +31,11 @@ Your participation is greatly appreciated!
 
 ## References
 Pandas Documentation
+
 Seaborn Documentation
+
 Matplotlib Documentation
+
 SQL Tutorial - W3Schools
 
 ## License
