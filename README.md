@@ -34,9 +34,9 @@ Your participation is greatly appreciated!
 
 [Seaborn Documentation](https://seaborn.pydata.org/)
 
-Matplotlib Documentation
+[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
-SQL Tutorial - W3Schools
+[SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 
 ## License
 This project is licensed under the MIT License.
