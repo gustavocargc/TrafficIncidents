@@ -36,6 +36,8 @@ Your participation is greatly appreciated!
 
 [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
+[Sqlite3 Documentation](https://docs.python.org/3/library/sqlite3.html)
+
 [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 
 ## License
