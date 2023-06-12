@@ -3,7 +3,9 @@ This project aims to perform a comprehensive analysis of traffic incidents using
 
 ## Tools Used
 Language: Python
+
 Libraries: Pandas, Seaborn, Matplotlib
+
 Database: SQL
 
 ## Project Steps
